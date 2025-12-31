@@ -1,0 +1,9 @@
+The structure is not decorative.
+Indentation is not aesthetic.
+The rule is not optional.
+
+If the syntax breaks,
+the execution stops.
+
+Meaning is irrelevant.
+Structure is sufficient.
